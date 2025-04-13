@@ -80,6 +80,14 @@ Saya Nina Wulandari dengan NIM 2312091 mengerjakan Tugas Praktikum 6 dalam mata 
    - Pemain bisa menekan tombol R untuk memulai ulang permainan.
    - Semua posisi, skor, dan status akan di-reset dan memulai ulang permainan.
 
+Notes:
+- Memperbarui fungsi move() dalam kelas Flappybird dan membuat fungsi endGame() supaya dapat menghentikan permainan saat player menabrak/menyentuh pipa atau terjatuh ke batas bawah JFrame.
+- Memperbarui fungsi move() dalam kelas Flappybird supaya jika player berhasil melewati suati pipa dimana posisi belakang pipa sudah lebih kecil dari posisi depan pemain akan menambah skor +1. Setelah skor ditambahkan, setScored(true) dipanggil agar tidak dihitung lagi.
+- Membuat jLabel dalam kelas Flappybird untuk menampilkan score, menampilkan kondisi GAME OVER dan restart game.
+- Mmeperbarui method keyPressed() dan membuat fungsi resetGame() supaya ketika gameOver == true dan tombol R ditekan, maka resetGame() akan dipanggil dan menjalankan ulang game.
+- Untuk GUI Form baru yang ditampilkan di awal program disini menggunakan GUI Form Jbutton yang saat ditekan akan menutup dirinya sendiri dan membuka JFrame game. JButton ini menggunakan gambar start dan berada di panel yang sama dengan game dan ditaruh di main.
+
+
 # Dokumentasi Program
 https://github.com/user-attachments/assets/9189e849-9bd9-4621-8a89-0575a275ff61
 
