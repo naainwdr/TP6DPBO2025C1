@@ -2,6 +2,7 @@
 Saya Nina Wulandari dengan NIM 2312091 mengerjakan Tugas Praktikum 6 dalam mata kuliah DPBO untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 # Desain Class
+![Diagram TP6 drawio](https://github.com/user-attachments/assets/28cdc7fa-ebee-47d0-bafa-5a87f9c5acc4)
 
 
 # Penjelasan Atribut dan Methods
@@ -81,6 +82,7 @@ Saya Nina Wulandari dengan NIM 2312091 mengerjakan Tugas Praktikum 6 dalam mata 
 
 # Dokumentasi Program
 https://github.com/user-attachments/assets/9189e849-9bd9-4621-8a89-0575a275ff61
+
 **Dokumentasi dipercepat 2x*
 
 
