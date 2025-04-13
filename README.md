@@ -4,7 +4,7 @@ Saya Nina Wulandari dengan NIM 2312091 mengerjakan Tugas Praktikum 6 dalam mata 
 # Desain Class
 
 
-##  Penjelasan Atribut dan Methods
+# Penjelasan Atribut dan Methods
 
 1. Class Player → Kelas ini merepresentasikan karakter burung yang dikendalikan oleh pemain.
     - int posX, posY → posisi burung di layar, x adalah horizontal dan y adalah vertikal.
@@ -59,7 +59,7 @@ Saya Nina Wulandari dengan NIM 2312091 mengerjakan Tugas Praktikum 6 dalam mata 
         - Game dimulai dengan startGame().
 
 
-## Penjelasan Alur Program
+# Penjelasan Alur Program
 - Program dimulai dengan menampilkan jendela JFrame setelah di run melalui App.java.
 - Di awal, akan muncul gambar background, bird, dan tombol Start berupa gambar di atas panel game (FlappyBird).
 - Saat tombol Start ditekan akan membuat tombol hilang secara otomatis dan game akan mulai.
@@ -80,5 +80,8 @@ Saya Nina Wulandari dengan NIM 2312091 mengerjakan Tugas Praktikum 6 dalam mata 
    - Semua posisi, skor, dan status akan di-reset dan memulai ulang permainan.
 
 # Dokumentasi Program
+https://github.com/user-attachments/assets/9189e849-9bd9-4621-8a89-0575a275ff61
+**Dokumentasi dipercepat 2x*
+
 
 
